@@ -1,0 +1,14 @@
+{
+    "_config": {
+        "textDirection": "ltr"
+      },
+    "phone":"Phone",
+    "password": "Password",
+    "login": "Login",
+    "name": "Name",
+    "languages": {
+        "hb": "Hebrew",
+        "en": "English",
+        "ar": "Arabic"
+      }
+  }
